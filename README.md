@@ -70,5 +70,6 @@ The app uses the OpenWeatherMap API 🌐 to fetch real-time weather data. When a
 
 The Weather Application is not only functional ✅ but also visually pleasing ✨ and showcases a solid understanding of HTML, CSS, and JavaScript working together.
 
+OUTPUT :- <img width="1908" height="880" alt="Image" src="https://github.com/user-attachments/assets/af107fa9-cf6d-456a-9036-9b77c69aff5f" />
 
 
