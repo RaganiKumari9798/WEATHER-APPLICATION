@@ -49,18 +49,19 @@ The app uses the OpenWeatherMap API 🌐 to fetch real-time weather data. When a
 - 📶 Real-time data using external API
 - 🖼️ Weather icons for visual clarity
 - 🌐 Clean, responsive web layout
--❌ Basic error handling (for invalid cities)
+- ❌ Basic error handling (for invalid cities)
 
 ---
 
-OUTPUT :- <img width="1908" height="880" alt="Image" src="https://github.com/user-attachments/assets/af107fa9-cf6d-456a-9036-9b77c69aff5f" />
+## OUTPUT :-
+<img width="1908" height="880" alt="Image" src="https://github.com/user-attachments/assets/af107fa9-cf6d-456a-9036-9b77c69aff5f" />
 <img width="1809" height="944" alt="Image" src="https://github.com/user-attachments/assets/d5bc3a13-f9ea-4daa-88fb-6d68e42ecb98" />
 
 ---
 
 ## 🙋‍♀️ Author
 #### Ragani Kumari
-Intern at CodTech
+Intern at CodTech<br>
 GitHub: @RaganiKumari9798
 
 ## 📄 License
